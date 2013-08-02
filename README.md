@@ -11,8 +11,7 @@ The indexer is triggered by the post receive hook, so your contribution will be 
 
 ### Example
 Here is the content of the example.json with a few comments added to it.
-
-The prefix `IDX` tells you, that this field is used for searching. `FILTER` indicates that this field and it's values are used to build filters in the future.
+The comment prefix `IDX` tells you, that this field is used for searching. `FILTER` indicates that this field and it's values are used to build filters in the future.
 
 ```json
 {
