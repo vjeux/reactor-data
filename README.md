@@ -1,8 +1,8 @@
 # React
-Reactor is a project that aims to be a searchable directory of React components. React is a Javascript framework, made by the people at facebook. 
+[Reactor](http://reactor.xenji.io) is a project that aims to be a searchable directory of React components. [React](http://facebook.github.io/react/docs/getting-started.html) is a Javascript framework, made by the people at facebook. 
 
 # Reactor
-Reactor is an attempt to collect reusable components all over the world. You can imagine it as something similar to packagist or the bower package browser. Reactor does not aim to replace any of those systems, but to make it easier to find components for your needs. Reactor only saves references to e.g. bower components or other repositories that contain the code.
+[Reactor](http://reactor.xenji.io) is an attempt to collect reusable components all over the world. You can imagine it as something similar to packagist or the [bower](http://bower.io/) package browser. [Reactor](http://reactor.xenji.io) does not aim to replace any of those systems, but to make it easier to find components for your needs. [Reactor](http://reactor.xenji.io) only saves references to e.g. [bower](http://bower.io/) components or other repositories that contain the code.
 
 ## Your component here?
 Now comes the easy part. Fork this repository, take a look at the example.json file. The example file contains all fields that will be stored in the elasticsearch that drives Reactor.
