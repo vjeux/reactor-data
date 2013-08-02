@@ -7,7 +7,7 @@
 	"author_name": "Dr. Foobar",
 	"created": "2013-07-01",
 	"updated": "2013-07-01",
-	"version_compat": "0.4.x",
+	"version_compat": ["0.4.x", "0.3.x"],
 	"code": "http://where.ever.your.code.is.hosted",
 	"homepage": "http://where.ever.your.homepageOrBlogOrWhatever.is.hosted",
 	"bower_compat": true,

@@ -41,7 +41,7 @@ The prefix `IDX` tells you, that this field is used for searching. `FILTER` indi
 	"updated": "2013-07-01",
 	
 	// FILTER 
-	"version_compat": "0.4.x",
+	"version_compat": ["0.4.x", "0.3.x"],
 	
 	// Where is your component hosted?
 	"code": "http://where.ever.your.code.is.hosted",
