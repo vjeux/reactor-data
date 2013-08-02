@@ -1,0 +1,16 @@
+{
+	"slug": "a-url-ready-slug-with-no-spaces-and-stuff",
+	"name": "A one line sentence or just a word you would expect in a headline.",
+	"desc": "A description that shows how cool your stuff is. ",
+	"tags": ["tags", "that", "we", "can", "use", "for", "filtering", "not", "more", "than", "five"],
+	"author_email": "foo@example.com",
+	"author_name": "Dr. Foobar",
+	"created": "2013-07-01",
+	"updated": "2013-07-01",
+	"version_compat": "0.4.x",
+	"code": "http://where.ever.your.code.is.hosted",
+	"homepage": "http://where.ever.your.homepageOrBlogOrWhatever.is.hosted",
+	"bower_compat": true,
+	"bower" : "bower_reference",
+	"css_framework": "bootstrap"
+}
