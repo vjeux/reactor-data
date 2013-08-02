@@ -1,0 +1,16 @@
+{
+	"slug": "event-based-activity-indicator",
+	"name": "Event based activity indication image",
+	"desc": "This spinner is used on reactor.xenji.io to indicate search acitvity. It uses EventEmitter2 in the original version, but you can drop in jQuery custom events as well.",
+	"tags": ["EventEmitter2", "ajax"],
+	"author_email": "mario@xenji.com",
+	"author_name": "Mario (xenji) Mueller",
+	"created": "2013-08-02",
+	"updated": "2013-08-02",
+	"version_compat": ["0.4.x", "0.3.x"],
+	"code": "https://gist.github.com/xenji/6140638",
+	"homepage": "",
+	"bower_compat": false,
+	"bower" : "",
+	"css_framework": "plain"
+}
