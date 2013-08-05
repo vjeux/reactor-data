@@ -13,7 +13,7 @@ The indexer is triggered by the post receive hook, so your contribution will be 
 Here is the content of the example.json with a few comments added to it.
 The comment prefix `IDX` tells you, that this field is used for searching. `FILTER` indicates that this field and it's values are used to build filters in the future.
 
-```json
+```javascript
 {
 	// IDX The url slug will be used for detail pages or direct links. This is not yet implemented, please add it anyway.
 	"slug": "a-url-ready-slug-with-no-spaces-and-stuff",
